@@ -6,6 +6,7 @@
 
 ## General Info
 This browser based web application to ...
+I am Evon and I am excited to show the git conflict.
 	
 ## Technologies
 Technologies used for this project:
