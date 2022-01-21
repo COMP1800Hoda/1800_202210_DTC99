@@ -7,6 +7,7 @@
 ## General Info
 This browser based web application to ...
 I am Hoda and I am excited to show the git conflict.
+I am Evon and I am excited to show the git conflict.
 	
 ## Technologies
 Technologies used for this project:
